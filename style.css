@@ -1,0 +1,25 @@
+/* Default Styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-size: "Mukta", sans-serif;
+}
+html {
+    font-size: 62.5%;
+}
+/* End of Default Styles */
+
+/* Container */
+/* Navbar */
+.navbar {
+    width: 100%;
+    height: 19rem;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* End of Navbar */
+/* End of Container */
